@@ -73,6 +73,24 @@ const NAV_DATA = {
 
 const NEWS_STORIES = [
 	{
+		title: 'Marching Band’s first Disney trip since COVID-19',
+		website: 'The Talon',
+		date: new Date('2024-12-09'),
+		image_src: 'https://lahstalon.org/wp-content/uploads/2024/12/IMG_9558.jpeg',
+		image_alt:
+			'Los Altos Marching Band performs in a parade during their first annual Disneyland trip since COVID-19.',
+		href: 'https://lahstalon.org/marching-band-wins-independence-tournament-of-bands/'
+	},
+	{
+		title: 'Marching Band Wins Independence Tournament of Bands',
+		website: 'The Talon',
+		date: new Date('2024-11-14'),
+		image_src:
+			'https://lahstalon.org/wp-content/uploads/2024/11/Screenshot-2024-11-14-at-1.11.00%E2%80%AFPM.png',
+		image_alt: 'Marchers stand in formation.',
+		href: 'https://lahstalon.org/marching-band-wins-independence-tournament-of-bands/'
+	},
+	{
 		title: 'LAHS marching band students receive Marine Corps award',
 		website: 'The Talon',
 		date: new Date('2023-12-19'),
