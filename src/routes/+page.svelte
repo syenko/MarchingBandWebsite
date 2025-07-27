@@ -17,7 +17,7 @@
 </script>
 
 <Header links={DATA.NAV_DATA.LINKS} />
-<!-- <BandCamp /> -->
+<BandCamp />
 <UpcomingSeason />
 <JoinUs />
 <About />

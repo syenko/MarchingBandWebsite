@@ -21,8 +21,8 @@
 		</div>
 		<div>
 			<div class="font-bold">When?</div>
-			<div>9:00 AM - 4:00 PM from Monday, August 5th to Saturday, August 10th</div>
-			<div class="pt-3">12:00 PM - 4:00 PM on Saturday will be the Family BBQ and Pool Party!</div>
+			<div>9:00 AM - 4:00 PM from Monday, August 4th to Saturday, August 9th</div>
+			<div class="pt-3">12:00 PM - 4:00 PM on Saturday will be the family showcase and picnic!</div>
 		</div>
 		<div>
 			<div class="font-bold">What do I bring?</div>
